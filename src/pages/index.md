@@ -1,21 +1,24 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Suncabi Clean
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Suncabi Clean
+subheading: Especialistas en ultravioleta
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: ¿Por qué Suncabi Clean?
+  description: Somos especialistas en ultravioleta. Tenemos más de 20 años de
+    experiencia trabajando con tecnologías ultravioleta. A raíz de la pandemia
+    del COVID19 hemos aprovechado nuestros conocimientos, adquiriendo nuevo
+    material especializado y hemos diseñado y construido nuevos dispositivos con
+    lso que desinfectamos y esterilizamos con tecnología de rayos UVC. Este
+    método está siendo utilizado en hospitales y quirófanos. Rápido, efectivo y
+    sin residuos. 100% respetuoso con el medio ambiente. Más preciso, efectivo y
+    rápido que el ozono. Combate el COVID19! Nos desplazamos por todo Madrid.
+    Trabajos certificados para la re-apertura de tu negocio.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
