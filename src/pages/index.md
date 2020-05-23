@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Suncabi Clean
-image: /img/home-jumbotron.jpg
+image: /img/dentist-1.jpg
 heading: Suncabi Clean
 subheading: Especialistas en ultravioleta
 mainpitch:
