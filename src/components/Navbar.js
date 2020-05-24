@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
+import phone from '../img/phone-icon.png'
 import logo from '../img/logo.svg'
 
 const Navbar = class extends React.Component {
@@ -60,32 +60,32 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
               <Link className="navbar-item" to="/products">
-                Products
+                Servicios
               </Link>
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
+              <Link className="navbar-item" to="/about">
+                Sobre nosotros
+              </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+                Contacto
               </Link>
               <Link className="navbar-item" to="/contact/examples">
-                Form Examples
+                Formularios
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="tel:912947160"
+                rel="author nofollow noopener noreferrer"
               >
-                <span className="icon">
-                  <img src={github} alt="Github" />
+                <span className="icon is-large">
+                  <img className="navbar-end-logo" src={phone} alt="phone" />
                 </span>
+                Llámenos al +34 91 294 71 60
               </a>
             </div>
           </div>
